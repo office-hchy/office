@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### HCHY was founded by Heng Yu and Hsiu-Ju Chang in 2019. Based in Taichung, Taiwan, HCHY's design works have span across Taiwan and the Netherlands. HCHY explores the infinite possibilities within the contemporary spatial morphology, expounding how visual medium and digital tool affect the production of spaces.
 
-### More Information
+## Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[office.hchy@gmail.com](mailto:office.hchy@gmail.com)
