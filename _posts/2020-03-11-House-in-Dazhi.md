@@ -2,6 +2,7 @@
 layout: post
 title: House in Dazhi
 permalink: /hchy01
+categories: interior
 ---
 ![hchy01_03.png]({{site.baseurl}}/assets/images/hchy01_house-in-dazhi/hchy01_03.png)
 
