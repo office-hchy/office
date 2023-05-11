@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All Watched by Machines of Loving Grace
-categories: urban
+categories: academy
 permalink: /hchy02
 ---
 
