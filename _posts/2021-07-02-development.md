@@ -3,6 +3,7 @@ layout: post
 title: "The Product, the Document, and the Building Type"
 permalink: /hchy12
 categories: research
+author: hy
 ---
 ### This three-part research project was initiated from a product selected from a local Albert Heijn–in this case, a sack of potatoes. The research covered the provenance of the product, the document influenced the related spaces attached to its supply chain, and the building type encountered in the supply chain where architectural parameters are at stake.
 

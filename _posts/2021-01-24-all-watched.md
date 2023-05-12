@@ -3,6 +3,7 @@ layout: post
 title: All Watched by Machines of Loving Grace
 categories: academy
 permalink: /hchy02
+author: hy
 ---
 
 ### The second part of project NL, entitled the Quest for Abundance, examined the abundance–problematized as the contemporary challenge for the Netherlands–in three categories, namely resourcefulness, redundancy, and riches.

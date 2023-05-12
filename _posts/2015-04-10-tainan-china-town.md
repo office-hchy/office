@@ -3,6 +3,7 @@ layout: post
 title: Tainan China Town
 permalink: /hchy11
 categories: film
+author: hy
 ---
 
 ### This documentary was shoot before the demolishment of the notorious hybrid-used building called Tainan China Town. Built in 1983, the building played an important role in Tainanese's collective memory due to its idiosyncratic location. Throughout conversations with locals, customers, and professionals in urban design and history, this film is a reflection on architecture and its influence on the city and citizens.
