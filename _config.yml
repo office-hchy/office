@@ -21,13 +21,13 @@ tagline: the Holistic Creation of HYbridisation
 description: the Holistic Creation of HYbridisation
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url:
+url: hchy.tw
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/office"
+baseurl:
 
 # global author information
 author: hy
@@ -42,13 +42,13 @@ permalink: /:year/:month/:day/:title/
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: office.hchy@gmail.com
+  email: info@hchy.tw
   facebook:
   github:
   instagram:
   linkedin:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
 
 plugins:
   - jekyll-seo-tag
