@@ -85,28 +85,5 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
-    <!-- dynamically add imgs from assets -->
-    <script>
-      // below is the code for adding images to carousel
-      const images = [
-        "assets/images/hchy01_house-in-dazhi/hchy01_00.png",
-        "assets/images/hchy01_house-in-dazhi/hchy01_01.png",
-        "assets/images/hchy01_house-in-dazhi/hchy01_02.png",
-        "assets/images/hchy09_supermarket/hchy09.00.png",
-      ];
-      const carouselInner = document.querySelector(".carousel-inner");
-      images.forEach((image, index) => {
-        const carouselItem = document.createElement("div");
-        carouselItem.classList.add("carousel-item");
-        if (index === 0) {
-          carouselItem.classList.add("active");
-        }
-        const img = document.createElement("img");
-        img.classList.add("d-block", "w-100");
-        img.src = image;
-        carouselItem.appendChild(img);
-        carouselInner.appendChild(carouselItem);
-      });
-    </script>
   </body>
 </html>
