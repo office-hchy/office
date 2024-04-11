@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tainan China Town
-permalink: /hchy15.01
+permalink: /hchy15-01
 categories: film
 author: hy
 ---

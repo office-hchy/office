@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Product, the Document, and the Building Type"
-permalink: /hchy21.05
+permalink: /hchy21-05
 categories: research
 author: hy
 ---

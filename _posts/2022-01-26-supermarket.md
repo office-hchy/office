@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supermarket
-permalink: /hchy22.02
+permalink: /hchy22-02
 categories: architecture
 author: hy
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: All Watched by Machines of Loving Grace
 categories: academy
-permalink: /hchy21.02
+permalink: /hchy21-02
 author: hy
 ---
 

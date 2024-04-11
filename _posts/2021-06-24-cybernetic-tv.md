@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cybernetic TV
-permalink: /hchy21.03
+permalink: /hchy21-03
 categories: film
 author: hy
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Albert Heijn: an Annotated Analysis"
-permalink: /hchy21.06
+permalink: /hchy21-06
 categories: research
 author: hy
 ---

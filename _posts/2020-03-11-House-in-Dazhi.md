@@ -1,7 +1,7 @@
 ---
 layout: post
 title: House in Dazhi
-permalink: /hchy20.01
+permalink: /hchy20-01
 categories: interior
 author: hy
 ---

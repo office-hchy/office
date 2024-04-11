@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blijkeuken
-permalink: /hchy22.03
+permalink: /hchy22-03
 categories: architecture
 author: hc
 ---
