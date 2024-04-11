@@ -1,12 +1,12 @@
 ---
 layout: post
 title: House in Dazhi
-permalink: /hchy01
+permalink: /hchy20.01
 categories: interior
 author: hy
 ---
-![hchy01_03.png]({{site.baseurl}}/assets/images/hchy01_house-in-dazhi/hchy01_03.png)
 
+![hchy01_03.png]({{site.baseurl}}/assets/images/hchy01_house-in-dazhi/hchy01_03.png)
 
 ### House in Dazhi is a renovation project for an old apartment in Dazhi, Taipei. The condo was initially comparted into one living room, three bedrooms, and utility spaces connected by a dark hallway on the side. The clients, two entrepreneurial sisters, vision the house to have a bright and spacious living and dining room for work and leisure along with a decent kitchen and bathroom. Consequently, this project’s fundamental challenge is achieving a pleasant living environment within the existing spatial framework.
 

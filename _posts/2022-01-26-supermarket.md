@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Supermarket
-permalink: /hchy09
+permalink: /hchy22.02
 categories: architecture
 author: hy
 ---
+
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/670611424?h=15da2248c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 ### The collective project on the spatial implications of the food industry in the Netherlands and beyond seeks to redesign the supermarket–currently occupying the most densely used square meters in a city–to implement developments within the meticulously designed sales floor via craft, reshoring, protectionism, automation, and extinction–for an immersive consumer experience–and the concealed back of house through the notions of tastemaking, scarcity, sensorialism, inclusivity, and trade–associated with the product's supply chain–ensuring a frictionless future for shoppers.
