@@ -1,7 +1,7 @@
 ---
 layout: post
-title: House Z
-permalink: /hchy22.04
+title: Appartment in Brussels
+permalink: /hchy24-01
 categories: interior
 author: hy
 ---
